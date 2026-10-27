@@ -1,0 +1,14 @@
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\bin\Debug\net10.0\PrototypePacman.exe
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\bin\Debug\net10.0\PrototypePacman.deps.json
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\bin\Debug\net10.0\PrototypePacman.runtimeconfig.json
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\bin\Debug\net10.0\PrototypePacman.dll
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\bin\Debug\net10.0\PrototypePacman.pdb
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\obj\Debug\net10.0\PrototypePacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\obj\Debug\net10.0\PrototypePacman.AssemblyInfoInputs.cache
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\obj\Debug\net10.0\PrototypePacman.AssemblyInfo.cs
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\obj\Debug\net10.0\PrototypePacman.csproj.CoreCompileInputs.cache
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\obj\Debug\net10.0\PrototypePacman.dll
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\obj\Debug\net10.0\refint\PrototypePacman.dll
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\obj\Debug\net10.0\PrototypePacman.pdb
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\obj\Debug\net10.0\PrototypePacman.genruntimeconfig.cache
+C:\Users\Moises\source\repos\PrototypePacman\PrototypePacman\obj\Debug\net10.0\ref\PrototypePacman.dll
